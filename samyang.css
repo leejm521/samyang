@@ -925,5 +925,7 @@ body{
         font-size: 13px;
         padding-top: 7%;
     }
-    #footer h3{font-size: 12px;}
+    #footer h3{
+        margin-top: 5%;
+        font-size: 12px;}
 }
