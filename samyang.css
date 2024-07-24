@@ -913,9 +913,6 @@ body{
         background-repeat: no-repeat;
         background-position-x: 96%;
     }
-    #section .youtube .youtube_list>li:nth-child(3)>.text_list{
-        letter-spacing: -2px;
-    }
     /* ----------------------------------- */
     #footer{
         height: 200px;
