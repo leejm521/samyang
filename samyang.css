@@ -923,5 +923,6 @@ body{
     #footer address{
         font-size: 13px;
         padding-top: 5%;
+        padding-bottom: 5%;
     }
 }
