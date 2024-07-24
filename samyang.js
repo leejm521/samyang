@@ -11,6 +11,6 @@ $(document).ready(function(){
         $(".side_menu").stop().animate({"left":"0%"});
     });
     $(".close").click(function(){
-        $(".side_menu").stop().animate({"left":"-70%"});
+        $(".side_menu").stop().animate({"left":"-75%"});
     });
 });
