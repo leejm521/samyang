@@ -915,14 +915,15 @@ body{
     }
     /* ----------------------------------- */
     #footer{
-        height: 200px;
+        height: 0px;
+        padding-bottom: 40%;
     }
     #footer .footer_gnb{display: none;}
     #footer .line{display: none;}
     #footer .sns_ic{display: none;}
     #footer address{
         font-size: 13px;
-        padding-top: 5%;
-        padding-bottom: 5%;
+        padding-top: 7%;
     }
+    #footer h3{font-size: 12px;}
 }
