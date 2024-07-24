@@ -679,6 +679,7 @@ body{
         width: 20px; height: 20px;
         box-sizing: border-box;
         position: absolute;
+        z-index: 1;
         right: 15px; top: 12px;
         /* border:1px solid red; */
         cursor: pointer;
