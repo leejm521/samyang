@@ -685,9 +685,9 @@ body{
     #header .side_menu .side_logo img{
         width: 30%;
         margin-top: 35px;
-        margin-left: 34%;
+        margin-left: 30%;
         margin-bottom: 30px;
-        min-width: 100px;
+        min-width: 120px;
     }
     #header .side_menu .side{
         height: 100%;
