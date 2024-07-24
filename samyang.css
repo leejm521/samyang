@@ -907,12 +907,13 @@ body{
         background-position-y:0px;
     }
     #section .youtube .youtube_list>li>.text_list{
-        font-size: 10pt;
+        font-size: min(2.6vw, 20px);
         margin-top: 10%;
         display: block;
-        width: 100%; height: 20px;
+        width: 100%; height: 30px;
         /* border: 1px solid red; */
         background-image: url(images/caret-right-solid.svg);
+        background-size: 6%;
         background-repeat: no-repeat;
         background-position-x: 96%;
     }
