@@ -916,7 +916,7 @@ body{
     /* ----------------------------------- */
     #footer{
         height: 0px;
-        padding-bottom: 40%;
+        padding-bottom: 50%;
     }
     #footer .footer_gnb{display: none;}
     #footer .line{display: none;}
