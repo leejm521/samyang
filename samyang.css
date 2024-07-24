@@ -687,6 +687,7 @@ body{
         margin-top: 35px;
         margin-left: 34%;
         margin-bottom: 30px;
+        min-width: 100px;
     }
     #header .side_menu .side{
         height: 100%;
